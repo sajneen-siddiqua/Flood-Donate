@@ -39,7 +39,7 @@ font-family: 'Poppins', sans-serif;
     font-size: 30px;
     color: #ddd;
 }
-.content .btn{
+.link-button{
     border: none;
     outline: none;
     padding: 15px;
@@ -48,6 +48,7 @@ font-family: 'Poppins', sans-serif;
     color: #ddd;
     font-size: 18px;
     background: tomato;
+    text-align: center;
 }
 .fcontainer{
     box-shadow: #ddd;
@@ -82,4 +83,64 @@ font-family: 'Poppins', sans-serif;
     background-color: pink;
     color: red;
 
+}
+.other{
+    text-align: center;
+    color: grey;
+    font-size: small;
+    font-weight: 100;
+    margin-top: 0;
+}
+hr{
+    width:50%;
+    text-align: center;
+    color: grey;
+    justify-content: center;
+    margin-left: 200px;
+}
+.card-1{
+    width: 350px;
+    height: 250px;
+    border: 1px solid grey;
+    text-align: center;
+    box-shadow: 8px 8px 16px;
+    padding: 20px;
+    border-radius: 5px;
+    margin-top: 40px;
+    background-color: rgb(206, 243, 243);
+    
+}
+.card-2{
+    width: 350px;
+    height: 250px;
+    border: 1px solid grey;
+    text-align: center;
+    box-shadow: 8px 8px 16px;
+    padding: 20px;
+    border-radius: 5px;
+    margin-top: 40px;
+    background-color: rgb(243, 229, 231);
+}
+.card-3{
+    width: 350px;
+    height: 250px;
+    border: 1px solid grey;
+    text-align: center;
+    box-shadow: 8px 8px 16px;
+    padding: 20px;
+    border-radius: 5px;
+    margin-top: 40px;
+    background-color: rgb(242, 220, 192);
+}
+.section-3{
+    margin-top: 70px;
+    padding: 50px;
+    display: flex;
+    justify-content: space-evenly;
+    
+
+}
+.section-3-header{
+    text-align: center;
+    margin-top: 50px;
 }
