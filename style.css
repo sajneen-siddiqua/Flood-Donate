@@ -10,7 +10,7 @@ font-family: 'Poppins', sans-serif;
 .banner-area{
     width: 100%;
     height:100vh;
-    background-image: url(images/donation.jpg.jpeg);
+    background-image: url(images/flood-donate.jpg);
     background-repeat: no-repeat;
     background-size:contain;
     padding-bottom: 200px;
@@ -37,7 +37,7 @@ font-family: 'Poppins', sans-serif;
 }
 .content p{
     font-size: 30px;
-    color: #ddd;
+    color: rgb(240, 237, 48);
 }
 .link-button{
     border: none;
@@ -49,6 +49,8 @@ font-family: 'Poppins', sans-serif;
     font-size: 18px;
     background: tomato;
     text-align: center;
+    
+    
 }
 .fcontainer{
     box-shadow: #ddd;
@@ -86,7 +88,7 @@ font-family: 'Poppins', sans-serif;
 }
 .other{
     text-align: center;
-    color: grey;
+    color: rgb(195, 185, 185);;
     font-size: small;
     font-weight: 100;
     margin-top: 0;
@@ -94,9 +96,10 @@ font-family: 'Poppins', sans-serif;
 hr{
     width:50%;
     text-align: center;
-    color: grey;
+    color: rgb(195, 185, 185);
     justify-content: center;
-    margin-left: 200px;
+    margin-left: 300px;
+    text-align: center;
 }
 .card-1{
     width: 350px;
@@ -206,6 +209,25 @@ hr{
     height: 100px;
     padding-top: 50px;
 
+}
+#red{
+    color: red;
+}
+
+.btn{
+    border: none;
+    outline: none;
+    padding: 15px;
+    margin-top: 20px;
+    border-radius: 4px;
+    color: #ddd;
+    font-size: 18px;
+    background: tomato;
+    position: relative;
+    left: 50%;
+
+    
+    
 }
 
 
