@@ -173,3 +173,39 @@ hr{
 .help-them{
     text-align: center;
 }
+.bonus-header{
+    text-align: center;
+}
+.box1{
+    background-color:rgb(235, 226, 216);
+    padding: 20px;
+    border: 100px solid white;
+    padding: 50px 200px;
+    display: flex;
+    justify-content: center;
+
+
+}
+.email{
+    padding: 10px 80px;
+    background-color: gainsboro;
+    color: rgb(91, 86, 86);
+    border-radius: 5px;
+}
+.sub{
+    padding:10px 50px ;
+    background-color: rgb(240, 114, 68);
+    color: white;
+    border-radius: 5px;
+}
+.foot{
+    background-color: black;
+    color: white;
+    text-align: center;
+    justify-content: center;
+    height: 100px;
+    padding-top: 50px;
+
+}
+
+
